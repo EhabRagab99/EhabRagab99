@@ -8,7 +8,7 @@
 
 ## Senior Flutter Developer · Mobile Team Lead · CTO · Entrepreneur
 
-**9+ years** software engineering &nbsp;|&nbsp; **6+ years** Flutter &nbsp;|&nbsp; **25+ apps** shipped &nbsp;|&nbsp; **8 industry domains**
+**12+ years** software engineering &nbsp;|&nbsp; **5+ years** Flutter &nbsp;|&nbsp; **25+ apps** shipped &nbsp;|&nbsp; **8 industry domains**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ehabragab.com-00D9FF?style=for-the-badge)](https://ehabragab.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EhabRagab99-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EhabRagab99)
